@@ -119,6 +119,7 @@ Github
 Gradle
 Gson
 HTTPConfigManager
+HTTPMessage
 HTTPProjectConfigManager.new
 HTTParty
 Halligon
@@ -191,6 +192,7 @@ Nullability
 Nunemaker
 OCMock
 OHHTTPStubs
+OHPathHelpers
 OPTIMIZELY.COM
 OPTIMIZELY_CONFIG_UPDATE
 OPTLYClient
