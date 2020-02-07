@@ -332,6 +332,11 @@ app.optimizely.com
 arg
 args
 async
+async.event.handler.event.max.per.route
+async.event.handler.max.connections
+async.event.handler.num.workers
+async.event.handler.queue.capacity
+async.event.handler.validate.after
 audience.combinations.
 audience.conditions
 auto_update
@@ -413,6 +418,11 @@ go.mod
 gradle
 gson
 http
+http.project.config.manager.blocking.duration
+http.project.config.manager.blocking.unit
+http.project.config.manager.polling.duration
+http.project.config.manager.polling.unit
+http.project.config.manager.sdk.key
 http_project_config_manager
 http_verb
 httpclient
