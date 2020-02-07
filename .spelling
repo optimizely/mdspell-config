@@ -355,6 +355,7 @@ boolean-valued
 booleans
 builderWithBlock
 carthage
+cdnjs
 chai
 classpath
 config
