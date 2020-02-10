@@ -7,6 +7,7 @@
 2.0.0b1
 2.0.x
 2.x
+2013-present
 3.2.0b1
 3.5G
 3.x
@@ -86,6 +87,7 @@ DecisionService
 DecisionService.ATTRIBUTE_BUCKETING_ID
 DemoApp
 Devel
+Dojo
 Doxygen
 Doxygen.app
 Duperron
@@ -125,6 +127,7 @@ HTTParty
 Halligon
 Harwood
 Headerdoc-like
+HoC
 HttpClient
 HttpProjectConfigManager
 Httparty
@@ -152,8 +155,10 @@ JobScheduler
 JobWorkService
 José
 Keychain
+Kieffer
 Lerna
 License.txt
+Lindesay
 Liquidsoul
 LoDash
 Localytics
@@ -165,6 +170,7 @@ LogManager
 LogManager.getLogger
 LoggerFacade
 Lookingglass
+Lydell
 Mixpanel
 Mixpanel.xcodeproj
 Mocktail
@@ -211,7 +217,9 @@ Optimizely.Builder.
 Optimizely.ab
 OptimizelyBucketId
 OptimizelyConfig
+OptimizelyExperiment
 OptimizelyFactory
+OptimizelyFeature
 OptimizelyManager
 OptimizelyManager.Builder.
 OptimizelySDK
@@ -236,6 +244,7 @@ Optionals
 Package.swift
 Paolacci
 Parameterized
+Piotr
 Pod_
 Podfile
 Podspec
@@ -259,6 +268,7 @@ README.md
 RSpec
 RaiseExceptionErrorHandler
 Rakefile
+ReactSDK
 RequireJS
 Rollout
 Rollouts
@@ -277,9 +287,11 @@ SUPPLICANT_CONNECTION_CHANGE_ACTION
 SWHttpTrafficRecorder
 Sanitization
 SauceLabs
+Sindre
 Sinon
 SizedQueue.new
 Sokolov
+Sorhus
 SourceClear
 Sourceclear
 StaticConfigManager
@@ -312,6 +324,7 @@ Whitelisted
 Whitelisting
 Wifi
 Wil
+Witek
 Wut
 X.509
 Xcode
@@ -446,20 +459,24 @@ jank
 java-sdk
 java.util.Supplier
 javadocs
+js-tokens
 json-iterator
 json-schema
 json-simple
 json.org
 kcharwood
 license.html
+lodash
 log4j
 logEvents
 logx.optimizely.com.
+loose-envify
 macOS
 main.go
 main.m
 matchers
 mem.pprof
+memoization
 metadata
 middlewares
 miliseconds
@@ -514,6 +531,7 @@ pre-release
 programmatically
 proguard
 projectId
+promise-polyfill
 python-testapp
 removeEvent
 repo
@@ -530,6 +548,7 @@ sdk
 sdkKey
 sdk_key
 segmentID
+sindresorhus.com
 skip_json_validation
 slf4j
 slf4j-api
