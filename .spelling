@@ -169,6 +169,8 @@ JinlianWang
 JobScheduler
 JobWorkService
 José
+jwksURL
+JWT
 Keychain
 Kieffer
 Kieltyka
@@ -212,6 +214,7 @@ Nuget
 NullPointerException
 Nullability
 Nunemaker
+OAuth
 OCMock
 OHHTTPStubs
 OHPathHelpers
@@ -491,6 +494,7 @@ golang
 gradle
 gson
 guuid
+hmacSecrets
 html
 http
 http.project.config.manager.blocking.duration
@@ -650,6 +654,7 @@ test_app
 textbox
 thead
 threadsafe
+Time-to-live
 timeSpan
 timerInterval
 timestamps
@@ -659,6 +664,7 @@ tooltips
 travis-ci
 travis.yml
 triaging
+ttl
 tvOS
 tvOS10
 tvOS9
@@ -671,6 +677,7 @@ unpkg
 unpkg.com
 update_interval
 url
+URL
 url_template
 userId
 user_id
