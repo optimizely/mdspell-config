@@ -34,6 +34,7 @@ admin
 admin.auth.clients
 admin.auth.hmacSecrets
 admin.auth.jwksURL
+admin.auth.jwksUpdateInterval
 admin.auth.ttl
 AlarmService
 AndreaScn
@@ -44,6 +45,7 @@ Anonymize
 api.auth.clients
 api.auth.hmacSecrets
 api.auth.jwksURL
+api.auth.jwksUpdateInterval
 api.auth.ttl
 App.config
 AppDelegate.swift
