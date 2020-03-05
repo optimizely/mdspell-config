@@ -2,6 +2,7 @@
 1m
 1.x
 1.x.x
+1.2.0-alpha.1
 100_entities.json
 10s
 2.0.0.beta
@@ -409,6 +410,7 @@ add_to_cart
 admin.port
 aligatr
 alpha-RC1
+alpha.1
 analytics
 android-sdk
 anonymization
