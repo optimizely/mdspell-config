@@ -19,6 +19,7 @@
 3.x
 30s
 32-bit
+32-byte
 4xx
 5s
 5xx
@@ -63,10 +64,13 @@ auth
 Auth0
 Backoff
 Bartosz
+base64-encoded
+base64-format
 BaseConfigManager
 BatchEventProcessor
 BatchEventProcessor.new
 Batsov
+BCrypt
 Bintray
 Bitcode
 Blimke
@@ -85,6 +89,7 @@ certfile
 Changelog
 Chelimsky
 Client.java
+client_secret
 Cloudflare
 CocoaPod
 CocoaPods
