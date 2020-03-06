@@ -597,6 +597,7 @@ murmurhash
 murmurhash-signed
 murmurhash3
 my_experiment
+namespace
 nonnull
 notification_center
 npm
