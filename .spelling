@@ -190,6 +190,8 @@ JobScheduler
 JobWorkService
 José
 jwksURL
+jwksUpdateInterval
+JWKSUPDATEINTERVAL
 JWT
 JWTs
 Keychain
