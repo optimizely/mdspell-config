@@ -49,6 +49,8 @@ api.auth.hmacSecrets
 api.auth.jwksURL
 api.auth.jwksUpdateInterval
 api.auth.ttl
+api.enableNotifications
+api.enableOverrides
 App.config
 AppDelegate.swift
 Appledoc-like
@@ -667,6 +669,7 @@ sdkKeys
 sdk_key
 sdkkeys
 segmentID
+server.disabledCiphers
 server.readtimeout
 server.writetimeout
 sindresorhus.com
