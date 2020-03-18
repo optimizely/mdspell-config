@@ -652,6 +652,7 @@ proguard
 projectId
 promise-polyfill
 python-testapp
+rakyll
 rc1
 removeEvent
 repo
@@ -687,6 +688,7 @@ sprintf-compatible
 sqlite
 src
 start_by_default
+statik
 streamrail
 stretchr
 strongnamed
