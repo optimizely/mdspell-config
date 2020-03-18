@@ -332,6 +332,7 @@ PollingProjectConfigManager
 PoolingHttpClientConnectionManager
 Popper.js
 Popper.js.
+Powershell
 Proguard
 ProjectConfig
 ProjectConfigJson
@@ -461,6 +462,7 @@ boby
 boolean
 boolean-valued
 booleans
+build.ps1
 builderWithBlock
 carthage
 cdnjs
