@@ -624,6 +624,7 @@ octect
 onDestroy
 onboarding
 openapi
+openapi.yaml
 optimizely
 optimizely-sdk-core-api
 optimizely-sdk-httpclient
