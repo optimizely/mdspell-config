@@ -528,6 +528,7 @@ fileManager
 fileManagers
 flush_interval
 gaganawhad
+generate_secret
 getEnabledFeature
 getFeatureVariable
 getVariation
