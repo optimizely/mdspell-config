@@ -7,6 +7,7 @@
 10s
 2.0.0.beta
 2.0.0.beta1
+2.0.0-alpha.2
 2.0.0b1
 2.0.x
 2.x
@@ -629,6 +630,8 @@ openapi
 openapi.yaml
 optimizely
 optimizely-sdk
+@optimizely/optimizely-sdk
+optimizely/optimizely-sdk
 optimizely-sdk-core-api
 optimizely-sdk-httpclient
 optimizely.browser.umd.min.js.
