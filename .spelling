@@ -43,6 +43,8 @@ admin.auth.jwksURL
 admin.auth.jwksUpdateInterval
 admin.auth.ttl
 AlarmService
+alpha.1
+alpha.2
 AndreaScn
 Andriod
 AngularJS
