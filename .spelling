@@ -21,6 +21,7 @@
 32-bit
 32-byte
 4xx
+4.0.0-alpha.1
 5s
 5xx
 7.x.
@@ -627,6 +628,7 @@ onboarding
 openapi
 openapi.yaml
 optimizely
+optimizely-sdk
 optimizely-sdk-core-api
 optimizely-sdk-httpclient
 optimizely.browser.umd.min.js.
@@ -656,6 +658,8 @@ pre-release
 programmatically
 proguard
 projectId
+Promise
+polyfill
 promise-polyfill
 python3
 python-testapp
