@@ -132,6 +132,7 @@ Doxygen
 Doxygen.app
 Duperron
 ES5-compliant
+ES5-compatible
 ESLint
 ESNext
 Ember.js
@@ -163,6 +164,8 @@ Gohistogram
 Golang
 Gradle
 Gson
+gzip
+gzip,deflate
 HTTPConfigManager
 HTTPMessage
 HTTPProjectConfigManager.new
