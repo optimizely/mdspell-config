@@ -31,6 +31,7 @@
 4.0.0-rc.1
 4.0.0-rc.1.
 4.0.0-rc.2
+4.0.0-rc.2]
 4.0.0-rc.2.
 5s
 5xx
@@ -365,6 +366,7 @@ rc.1
 rc.1.
 rc.2
 rc.2.
+rc.2]
 RDoc
 README.md
 RSpec
