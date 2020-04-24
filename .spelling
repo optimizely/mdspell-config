@@ -9,6 +9,8 @@
 2.0.0.beta1
 2.0.0-alpha.2
 2.0.0-rc.1
+2.0.0-rc.2
+2.0.0-rc.2.
 [2.0.0-alpha.2]
 2.0.0b1
 2.0.x
@@ -28,6 +30,8 @@
 4.0.0-alpha.1.
 4.0.0-rc.1
 4.0.0-rc.1.
+4.0.0-rc.2
+4.0.0-rc.2.
 5s
 5xx
 7.x.
@@ -358,6 +362,8 @@ QOS.ch
 QuickStart
 rc.1
 rc.1.
+rc.2
+rc.2.
 RDoc
 README.md
 RSpec
