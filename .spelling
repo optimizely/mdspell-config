@@ -523,6 +523,7 @@ datafile
 datafile-handler
 datafile-parsing
 datafiles
+datafileURLTemplate
 deallocated
 dequeueWork
 dereferencing
