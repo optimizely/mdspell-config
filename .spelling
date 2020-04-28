@@ -155,6 +155,7 @@ EventRescheduler
 Experiment.audienceCombinations.
 ExperimentKey
 FMDatabaseQueues
+FeatureVariable
 FindBugs
 FirebaseAppDelegateProxyEnabled
 Flake8
@@ -535,6 +536,7 @@ docsimon
 doxygen
 e.g.
 emptry
+enum
 env
 errorHandler
 error_handler
