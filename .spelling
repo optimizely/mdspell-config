@@ -524,6 +524,7 @@ dSYMs
 datafile
 datafile-handler
 datafile-parsing
+datafileHandler
 datafiles
 datafileURLTemplate
 deallocated
@@ -701,6 +702,7 @@ repo
 repoOpen
 requestId
 requirements.txt
+resourceTimeout
 roadmap
 rollout
 rollouts
