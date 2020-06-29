@@ -79,6 +79,7 @@ Atlassian
 AtomicProjectConfigManager
 auth
 Auth0
+AuthDatafilePollingConfigManager
 Backoff
 Bartosz
 base64-encoded
@@ -445,6 +446,7 @@ Yura
 Zivolo
 __autoreleasing
 aar
+access_token
 accessor
 accessors
 add_to_cart
