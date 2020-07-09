@@ -585,6 +585,7 @@ http.project.config.manager.blocking.unit
 http.project.config.manager.polling.duration
 http.project.config.manager.polling.unit
 http.project.config.manager.sdk.key
+http.project.config.manager.datafile.auth.token
 http_project_config_manager
 http_verb
 httpclient
